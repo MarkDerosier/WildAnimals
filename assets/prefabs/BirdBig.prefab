@@ -1,0 +1,17 @@
+{
+    "skeletalmesh" : {
+        "mesh" : "BirdBig",
+        "heightOffset" : -0.8,
+         "material" : "BirdSkin",
+	"animation" : "BirdBig",
+        "loop" : true
+    },
+    "persisted" : true,
+    "location" : {},
+    "Character": {},
+    "Network" :{},
+    "MinionMove" : {},
+    "Health" : {
+        "destroyEntityOnNoHealth" : true
+    }
+}

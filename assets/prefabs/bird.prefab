@@ -1,0 +1,17 @@
+{
+    "skeletalmesh" : {
+        "mesh" : "bird",
+        "heightOffset" : -0.8,
+         "material" : "BirdSkin",
+	"animation" : "bird",
+        "loop" : true
+    },
+    "persisted" : true,
+    "location" : {},
+    "Character": {},
+    "Network" :{},
+    "MinionMove" : {},
+    "Health" : {
+        "destroyEntityOnNoHealth" : true
+    }
+}
